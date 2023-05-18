@@ -2,7 +2,7 @@ export const user = {
     login: 'auto.test',
     authentificator:'123456',
     email: 'm.orynbay@srgdev.kz',
-    password: 'Qwerty11!!',
+    password: 'Qwerty123456!!!',
     incorrectemail: 'm.orynbay@srgdev.kz1',
     incorrectpassword: 'errorpassword',
     testemail: 'xwkogypfnfztqalfyz@bvhrk.com',
